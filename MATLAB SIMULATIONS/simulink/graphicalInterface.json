@@ -1,0 +1,99 @@
+{
+    "GraphicalInterface":{
+        "ExternalFileReferences":[
+            {
+                "Path":"$bdroot\/Current Measurement",
+                "Reference":"spsCurrentMeasurementLib\/Current Measurement",
+                "SID":"9",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Current Measurement1",
+                "Reference":"spsCurrentMeasurementLib\/Current Measurement",
+                "SID":"16",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Current Measurement2",
+                "Reference":"spsCurrentMeasurementLib\/Current Measurement",
+                "SID":"26",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/DC Voltage Source",
+                "Reference":"spsDCVoltageSourceLib\/DC Voltage Source",
+                "SID":"7",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Diode",
+                "Reference":"spsDiodeLib\/Diode",
+                "SID":"2",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Ground",
+                "Reference":"spsGroundLib\/Ground",
+                "SID":"8",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Mean",
+                "Reference":"spsMeanLib\/Mean",
+                "SID":"11",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Mean1",
+                "Reference":"spsMeanLib\/Mean",
+                "SID":"12",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Mosfet",
+                "Reference":"spsMosfetLib\/Mosfet",
+                "SID":"1",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Series RLC Branch",
+                "Reference":"spsSeriesRLCBranchLib\/Series RLC Branch",
+                "SID":"3",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Series RLC Branch1",
+                "Reference":"spsSeriesRLCBranchLib\/Series RLC Branch",
+                "SID":"4",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Series RLC Branch2",
+                "Reference":"spsSeriesRLCBranchLib\/Series RLC Branch",
+                "SID":"5",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Voltage Measurement",
+                "Reference":"spsVoltageMeasurementLib\/Voltage Measurement",
+                "SID":"6",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/Voltage Measurement1",
+                "Reference":"spsVoltageMeasurementLib\/Voltage Measurement",
+                "SID":"27",
+                "Type":"LIBRARY_BLOCK"
+            },
+            {
+                "Path":"$bdroot\/powergui",
+                "Reference":"spspowerguiLib\/powergui",
+                "SID":"17",
+                "Type":"LIBRARY_BLOCK"
+            }
+        ],
+        "PreCompExecutionDomainType":"Unset",
+        "SimulinkSubDomainType":"Simulink",
+        "SolverName":"VariableStepAuto"
+    }
+}

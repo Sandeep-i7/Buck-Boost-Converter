@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" defaultPackage="slid" packageUris="http://schema.mathworks.com/mf0/slid/R2023a_20220628">
+  <System type="System" uuid="407ee11c-52bd-45f8-9caf-8071067f7aa4">
+    <Interface type="Interface" uuid="9d9aaf5e-0479-4a93-8b0c-728a68538906"/>
+  </System>
+</MF0>
